@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a 3rd-year Software Engineering student, building my foundations properly before moving - currently deep in data structures & algorithms while developing web/backend skills on the side.
+
+- 🔭 Currently working through **DSA fundamentals** and building a **full-stack project with a MySQL backend**
+- 🛠️ Freelance work in web development and technical/document writing
+- 🌱 Approach: no shortcuts - every project starts with a clear plan before a single line of code
+- 📍 Based in Algeria
+
+---
+
+📫 Reach me: [ajaton.dev](https://ajaton.dev)
 <!--
 **ajaton-dev/ajaton-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
