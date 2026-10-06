@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a 3rd-year Software Engineering student, building my foundations properly before moving - currently deep in data structures & algorithms while developing web/backend skills on the side.
+I'm a 3rd-year Software Engineering student, building my foundations properly before moving . Currently deep in data structures & algorithms while developing web/backend skills on the side.
 
-- 🔭 Currently working through **DSA fundamentals** and building a **full-stack project with a MySQL backend**
+- 🔭 Currently working through **DSA fundamentals** and building a **full-stack web project using PHP (Laravel)**
 - 🛠️ Freelance work in web development and technical/document writing
-- 🌱 Approach: no shortcuts - every project starts with a clear plan before a single line of code
+- 🌱 Approach: no shortcuts -- every project starts with a clear plan before a single line of code
 - 📍 Based in Algeria
 
 ---
